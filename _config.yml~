@@ -1,12 +1,12 @@
 # main text of home
-name: Anmol Jawandha
-bio: Passionately curious | Student | Problem - Solver
+name: John Doe
+bio: 'A Man who travels the world eating noodles'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://anmol6.github.io
+url: http://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
