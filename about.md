@@ -35,7 +35,7 @@ solving, and am an avid competitive programmer. </p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/Anmol6/bAbi-tasks">QndA AI</a></li>
+	<li><a href="https://github.com/Anmol6/RLPong">RLPong!</a></li>
+
 </ul>
