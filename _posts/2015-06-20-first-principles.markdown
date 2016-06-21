@@ -13,7 +13,7 @@ author: anmol
 description: Thinking from first princples
 ---
 
-##That is the question
+## That is the question
 
 What is "thinking from first principles"?
 Heck, what is thinking? and what are "first principles"?
