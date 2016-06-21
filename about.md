@@ -1,41 +1,46 @@
 ---
 title: About
 layout: page
-permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I'm an Engineering Physics undergrad at the University of British Columbia.
-My interest revolve around building useful technologies that can solve important
-world problems, particularly those faced by struggling communities. As an Engineering
-Physics student, I benefit from both the perspective of 'first principles' thinking,
-and the knowledge of engineering applications. </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p> Outside of class, I'm deeply vested in learning about machine learning and particularly
-follow recurrent models for Natural Language Processing. I also enjoy the thrill of problem
-solving, and am an avid competitive programmer. </p>
-
-<p> I'm always open to meeting new people and working on new things - feel free to reach out!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>C++ - Python - Javascript - Java</li>
-	<li>Machine Learning - Probability - Statistics</li>
-	<li>Electrodynamics - Quantum Physics</li>
-	<li>TensorFlow - Keras, Theano</li>
-	<li>HTML - CSS</li>
-	<li>NodeJS - MeteorJS</li>
-	<li> ReactJS</li>
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/Anmol6/bAbi-tasks">QndA AI</a></li>
-	<li><a href="https://github.com/Anmol6/RLPong">RLPong!</a></li>
-
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
