@@ -1,10 +1,8 @@
 ---
 title: About
 layout: page
-permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-
 <p>Hi! I'm an Engineering Physics undergrad at the University of British Columbia.
 My interest revolve around building useful technologies that can solve important
 world problems, particularly those faced by struggling communities. As an Engineering

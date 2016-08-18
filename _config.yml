@@ -1,12 +1,16 @@
 # main text of home
 name: Anmol Jawandha
-bio: Passionately curious | Student | Problem - Solver
+bio: Coder, Problem Solver
+
+# twitter summary info
+description: Rumblings of a curious student
 
 # if it's an external image, update below for true
+# better with square images
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: assets/images/profile.jpg
 
-url: http://anmol6.github.io
+#url: http://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -22,10 +26,10 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: anmol.jawandha.3
+#facebook: myfacebook
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -34,8 +38,18 @@ facebook: anmol.jawandha.3
 #youtube: myyoutube
 #spotify: myspotify
 github: anmol6
-#medium: medium
+#medium: medi
+#vimeo: myvimeo
 email: anmoljawandha6@gmail.com
+
+authors:
+    anmol:
+        name: Anmol Jawandha
+        bio: Student, Coder
+        external-image: false
+        picture: assets/images/profile.jpg
+        #twitter: 
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -62,8 +76,18 @@ show-tags: true
 # related posts inside a post?
 related: true
 
+# show next & prev links in blog post?
+blog-nav-links: false
+
+# show author block at the end of a post ?
+show-author: true
+
 # do you want some animations?
 animation: true
+
+sass:
+    sass_dir: _sass
+    style: :compressed
 
 gems:
   - jemoji
@@ -77,4 +101,4 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
