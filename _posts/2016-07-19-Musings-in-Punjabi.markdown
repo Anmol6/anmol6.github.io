@@ -1,7 +1,7 @@
 ---
 title: "Musings in Punjabi"
 layout: post
-date: 2016-08-20 23:28
+date: 2016-07-19 23:28
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
