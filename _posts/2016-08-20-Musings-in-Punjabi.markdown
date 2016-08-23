@@ -1,3 +1,19 @@
+---
+title: "Musings in Punjabi"
+layout: post
+date: 2016-08-20 23:28
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Punjabi
+- Poetry
+- Philosophy
+blog: true
+author: anmol
+description: Late night thoughts
+---
+
+
 Ho lain do
 hath jor ke, maro'r ke
 bhave'n ro'b ch ya' fer sog ch'
