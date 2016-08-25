@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 <p>Hi! I'm an Engineering Physics undergrad at the University of British Columbia.
-My interest revolve around building useful technologies that can solve important
+My interests revolve around building useful technologies that can solve important
 world problems, particularly those faced by struggling communities. As an Engineering
 Physics student, I benefit from both the perspective of 'first principles' thinking,
 and the knowledge of engineering applications. </p>
@@ -22,10 +22,9 @@ solving, and am an avid competitive programmer. </p>
 	<li>Machine Learning - Probability - Statistics</li>
 	<li>Electrodynamics - Quantum Physics</li>
 	<li>TensorFlow - Keras, Theano</li>
-	<li>HTML - CSS</li>
+	<li>HTML - CSS </li>
 	<li>NodeJS - MeteorJS</li>
 	<li> ReactJS</li>
-	<li>Git</li>
 	<li>MySQL - MongoDB</li>
 
 </ul>
@@ -33,6 +32,7 @@ solving, and am an avid competitive programmer. </p>
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/Anmol6/capshun">Image Captioning</a></li>
 	<li><a href="https://github.com/Anmol6/bAbi-tasks">QndA AI</a></li>
 	<li><a href="https://github.com/Anmol6/RLPong">RLPong!</a></li>
 
