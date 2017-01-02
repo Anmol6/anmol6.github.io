@@ -9,22 +9,18 @@ world problems, particularly those faced by struggling communities. As an Engine
 Physics student, I benefit from both the perspective of 'first principles' thinking,
 and the knowledge of engineering applications. </p>
 
-<p> Outside of class, I'm deeply vested in learning about machine learning and particularly
-follow recurrent models for Natural Language Processing. I also enjoy the thrill of problem
-solving, and am an avid competitive programmer. </p>
-
 <p> I'm always open to meeting new people and working on new things - feel free to reach out!</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>C++ - Python - Javascript - Java</li>
-	<li>Machine Learning - Probability - Statistics</li>
+	<li>Deep Learning - Reinforcement Learning - Optimization </li>
 	<li>Electrodynamics - Quantum Physics</li>
-	<li>TensorFlow - Keras, Theano</li>
+	<li>TensorFlow - Theano - Torch</li>
 	<li>HTML - CSS </li>
 	<li>NodeJS - MeteorJS</li>
-	<li> ReactJS</li>
+	<li>ReactJS</li>
 	<li>MySQL - MongoDB</li>
 
 </ul>
@@ -32,9 +28,10 @@ solving, and am an avid competitive programmer. </p>
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/Anmol6/DNGO-BO">Deep Networks for Global Optimization</a></li>		
 	<li><a href="https://github.com/Anmol6/capshun">Image Captioning</a></li>
 	<li><a href="https://github.com/Anmol6/ENPH253">Engineering Physics Robotics</a></li>
-	<li><a href="https://github.com/Anmol6/bAbi-tasks">QndA AI</a></li>
+	<li><a href="https://github.com/Anmol6/kaggle-seizure-competition">Kaggle Seizure Prediction</a></li>
 	<li><a href="https://github.com/Anmol6/RLPong">RLPong!</a></li>
 
 </ul>
