@@ -46,7 +46,7 @@ It's really easy to make finishing a working script your primary objective, but 
 
 Secondly, a good long-term thinker can be effective at prioritizing tasks. 
 This is something I particularly struggled with. With the exciting growith in many areas of deep learning, it's easy
-to throw yourself at multipled exciting problems. I too was in this place of short-term excitement about different problemss before realizing it made much more sense to finish 
+to throw yourself at multiple exciting problems. I too was in this place of short-term excitement about different problemss before realizing it made much more sense to finish 
 a specific project to the end and have something to show for it.
 
 
