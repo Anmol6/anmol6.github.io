@@ -1,3 +1,20 @@
+---
+title: "Lessons from my internship"
+layout: post
+date: 2017-10-18 21:28
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Research
+- Work
+- Productivity
+blog: true
+author: anmol
+description: Late night thoughts
+---
+
+
+
 As my wonderful internship at Element AI draws to an end, I've tried to reflect on things I've learned here and summarized
 some of the high-level lessons in this post (in no particular order). Though I was doing research in deep learning, I hope people 
 from many different backgrounds find these useful. Views are my own :)
