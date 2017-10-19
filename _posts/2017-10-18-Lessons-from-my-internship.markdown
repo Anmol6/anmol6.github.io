@@ -2,7 +2,7 @@
 title: "Lessons from my internship"
 layout: post
 date: 2017-10-18 21:28
-image: /assets/images/markdown.jpg
+image: /assets/images/profile.jpg
 headerImage: false
 tag:
 - Research
@@ -10,7 +10,6 @@ tag:
 - Productivity
 blog: true
 author: anmol
-description: Late night thoughts
 ---
 
 
