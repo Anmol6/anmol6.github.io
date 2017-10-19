@@ -56,10 +56,13 @@ a specific project to the end and have something to show for it.
 ## Lesson 3 - Talk to yourself
 
 Not in a weird or narcissistic way (though I have nothing against that), but realize that feedback loops are critical for your growth. And not just any feedback,
-but feedback that naturally lends itself to the fundamental changes you need to make. Here are some talking-to-myself moments I've had
+but feedback that naturally lends itself to the fundamental changes you need to make. Here are some talking-to-myself moments I've had:
+
 "I haven't been able to find the bug in my code in the last two weeks - maybe I should re-evaluate my assumptions about every module?"
-" 
-"The last time I had poutine was a month ago, am I missing out on life?"
+
+"I've been feeling tired at work this week - how should I change my priorities to get more sleep?"
+
+"The last time I had poutine was a month ago - am I missing out on life?"
 
 It's very easy to get caught up in the inertia of a particular project. Taking a moment to honestly assess your progress can push you to seek help, re-evaluate your approach, take a small break, for example, and ultimately help solve whatever problem you're facing. 
 
