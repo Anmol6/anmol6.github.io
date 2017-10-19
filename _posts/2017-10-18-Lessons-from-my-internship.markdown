@@ -69,7 +69,7 @@ It's very easy to get caught up in the inertia of a particular project. Taking a
 
 
 
-## Lesson 4 Feed yourself endorphines
+## Lesson 4 - Feed yourself endorphines
 
 When the going gets tough and anxiety starts to kick in, look for the small victories. Clean up your desk, make that trivial "code cleaned" commit that you've been putting off - make any sort of progress you can.
 Pushing through and accomplishing even the minutest of things, in my experience, can be enough to sustain the motivation you need to get the job done. In summary, don't give up (yep, I just used that cliché).
