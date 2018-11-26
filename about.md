@@ -28,6 +28,7 @@ and the knowledge of engineering applications. </p>
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/Anmol6/locomotion">Simbicon Controller and Optimization</a></li>
 	<li><a href="https://github.com/Anmol6/DNGO-BO">Deep Networks for Global Optimization</a></li>		
 	<li><a href="https://github.com/Anmol6/capshun">Image Captioning</a></li>
 	<li><a href="https://github.com/Anmol6/ENPH253">Engineering Physics Robotics</a></li>
