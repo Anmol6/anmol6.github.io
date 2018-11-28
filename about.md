@@ -14,12 +14,11 @@ and the knowledge of engineering applications. </p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Deep Learning - Reinforcement Learning - Vision - Robotics </li>
+	<li>Physics - Simulation</li>
 	<li>C++ - Python - Javascript - Java</li>
-	<li>Deep Learning - Reinforcement Learning - Optimization </li>
-	<li>Electrodynamics - Quantum Physics</li>
-	<li>TensorFlow - Theano - Torch</li>
+	<li>TensorFlow - Pytorch</li>
 	<li>HTML - CSS </li>
-	<li>NodeJS - MeteorJS</li>
 	<li>ReactJS</li>
 	<li>MySQL - MongoDB</li>
 
