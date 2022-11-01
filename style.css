@@ -1,0 +1,29 @@
+figure {
+    margin: 0;
+}
+.audio-track {
+    width: 150px;
+    height: 3px;
+    background-color: #306838;
+    margin: 20px 0
+}
+ 
+.time {
+    width: 0;
+    height: 3px;
+    background-color: #474747
+}
+
+
+.now-playing{
+    margin-left: 20px;
+}
+.controls{
+    margin-left: 20px;
+}
+
+body {
+    background-image: url('./assets/backgrounds/background.png');
+    background-size:     cover;
+    background-position: 0% 10%; 
+  }
