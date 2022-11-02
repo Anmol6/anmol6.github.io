@@ -21,9 +21,14 @@ figure {
 .controls{
     margin-left: 20px;
 }
+.img-details{
+    margin-left: 10px;
+    color: rgb(27, 23, 20);
+    font-family: cursive;
+}
 
 body {
-    background-image: url('./assets/backgrounds/background.png');
+    background-image: url('./assets/img/bg1.png');
     background-size:     cover;
     background-position: 0% 10%; 
   }

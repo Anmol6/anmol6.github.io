@@ -3,20 +3,31 @@ let btnPlayPause = document.querySelector(".play-pause"); // Take the play butto
 let btnPrev = document.querySelector(".prev"); // Take the switch button of the previous track
 let btnNext = document.querySelector(".next"); // Take the button to switch the next track
 let nowPlaying = document.querySelector(".now-playing");
-
+let imgDetails = document.getElementsByClassName("img-details");
 
 
 musicPath = "assets/music/"
 // Array with song titles
-let playlist = [
-    {song: 'raavi_tyson.mp3', name: 'raavi', artist: 'Tyson Sidhu'},
-    {song: 'paani_feroz.mp3', name: 'paani diyan challan', artist: 'Feroz Khan'},
-    {song: 'why_arjan.mp3', name: 'why arjan', artist: 'arjan'},
-    {song: 'channo_diljit.mp3', name: 'channo', artist:'diljit'},
-    {song: 'rabb_khair_prabh_gill.mp3', name: 'rabb khair kare', artist:'prabh gill'},
-    
+let playlist = []
+const files = ['raavi__tyson_sidhu.mp3', 'paani__feroz_khan.mp3', 'why_arjan__arjan_dhillon.mp3', 'channo__diljit_dosanjh.mp3', 'rabb_khair_kare__prabh_gill.mp3', 'raah__amrinder_gill.mp3', 'baajre_da_sitta__tania_and_noor_chahal.mp3']
 
-];
+
+for (var i = 0; i < files.length; i++) {
+    if (files[i].endsWith(".mp3")) {
+        file = files[i].substring(0, files[i].length-4)
+        artist = file.split("__")[1].replaceAll('_', ' ')
+        song = file.split("__")[0].replaceAll('_', ' ')
+        playlist.push({file: files[i], song, artist});
+    }
+}
+
+let backgrounds = [
+    {
+        img: 'assets/img/bg1.png',
+        artist: '@farheenay'
+    },
+
+]
  
 let trackId = 0; // Variable with track index
 let paused  = true;
@@ -59,13 +70,15 @@ function next(){
 }
 
 function loadTrack(play=true){
-    let track = playlist[trackId].song;
-    nowPlaying.textContent = playlist[trackId].name + ' ~ ' + playlist[trackId].artist
+    let track = playlist[trackId].file;
+    nowPlaying.textContent = playlist[trackId].song + ' ~ ' + playlist[trackId].artist
     audio.src = musicPath  + track
+
     audio.load();
     if(play){
     audio.play();
     paused = false
+    imgDetails.innerText = '@farheenay'
     }
 }
 
