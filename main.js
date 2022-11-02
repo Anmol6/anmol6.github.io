@@ -9,7 +9,7 @@ let imgDetails = document.getElementsByClassName("img-details");
 musicPath = "assets/music/"
 // Array with song titles
 let playlist = []
-const files = ['raavi__tyson_sidhu.mp3', 'paani__feroz_khan.mp3', 'why_arjan__arjan_dhillon.mp3', 'channo__diljit_dosanjh.mp3', 'rabb_khair_kare__prabh_gill.mp3', 'raah__amrinder_gill.mp3', 'baajre_da_sitta__tania_and_noor_chahal.mp3']
+const files = ['raavi__tyson_sidhu.mp3', 'paani__feroz_khan.mp3', 'why_arjan__arjan_dhillon.mp3', 'channo__diljit_dosanjh.mp3', 'rabb_khair_kare__prabh_gill.mp3', 'raah__amrinder_gill.mp3', 'baajre_da_sitta__tania_and_noor_chahal.mp3', 'akhar__amrinder_gill.mp3','heerey__amrinder_gill.mp3']
 
 
 for (var i = 0; i < files.length; i++) {
@@ -67,6 +67,7 @@ function prev(){
         trackId = playlist.length -1
     }
     loadTrack()
+    loadBackground()
 }
 
 function next(){
@@ -77,13 +78,15 @@ function next(){
         trackId = 0
     }
     loadTrack()
-    imageIdx = Math.floor(Math.random() * 3) + 1;
+    loadBackground()
+
+}
+function loadBackground(){
+    imageIdx = Math.floor(Math.random() * 9) + 1;
     document.body.style.backgroundImage = "url('./assets/img/bg" + imageIdx + ".png')";
     document.body.style.backgroundSize = 'cover';
     document.body.style.backgroundSize = '100vw 100vh'
-
 }
-
 function loadTrack(play=true){
     let track = playlist[trackId].file;
     nowPlaying.textContent = playlist[trackId].song + ' ~ ' + playlist[trackId].artist
