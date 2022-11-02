@@ -82,7 +82,7 @@ function next(){
 
 }
 function loadBackground(){
-    imageIdx = Math.floor(Math.random() * 9) + 1;
+    imageIdx = Math.floor(Math.random() * 11) + 1;
     document.body.style.backgroundImage = "url('./assets/img/bg" + imageIdx + ".png')";
     document.body.style.backgroundSize = 'cover';
     document.body.style.backgroundSize = '100vw 100vh'
