@@ -27,6 +27,16 @@ let backgrounds = [
         artist: '@farheenay'
     },
 
+    {
+        img: 'assets/img/bg2.png',
+        artist: 'ai'
+    },
+
+    {
+        img: 'assets/img/bg3.png',
+        artist: 'deviantart'
+    },
+
 ]
  
 let trackId = 0; // Variable with track index
@@ -67,6 +77,11 @@ function next(){
         trackId = 0
     }
     loadTrack()
+    imageIdx = Math.floor(Math.random() * 3) + 1;
+    document.body.style.backgroundImage = "url('./assets/img/bg" + imageIdx + ".png')";
+    document.body.style.backgroundSize = 'cover';
+    document.body.style.backgroundSize = '100vw 100vh'
+
 }
 
 function loadTrack(play=true){

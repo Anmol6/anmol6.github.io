@@ -29,6 +29,7 @@ figure {
 
 body {
     background-image: url('./assets/img/bg1.png');
-    background-size:     cover;
-    background-position: 0% 10%; 
-  }
+    background-size: cover;
+    background-size:100vw 100vh;
+
+}
